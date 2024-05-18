@@ -1,0 +1,4 @@
+superuser admin = contruct
+pass= 1234
+myenv - source/myenv/bin/activate
+run- python3 manage.py runserver
